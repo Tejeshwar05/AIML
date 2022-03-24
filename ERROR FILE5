@@ -1,0 +1,13 @@
+row,col,error
+0,A005,type error 'a' 
+3,A005,type error 'a' 
+1,A001,type error 'b' 
+2,A001,type error 'b' 
+0,A006,Error C
+0,A008,Error D
+3,A006,Error C
+3,A008,Error D
+15,A007,Error E
+15,A008,Error F
+16,A007,Error E
+16,A008,Error F
